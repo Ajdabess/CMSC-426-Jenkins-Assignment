@@ -1,2 +1,2 @@
 # CMSC-426-Jenkins-Assignment
-:3
+Building an automated CI pipeline using Jenkins and Github
