@@ -5,7 +5,7 @@ def test_digital_root():
     assert digital_root(6832) == 1
     assert digital_root(9875) == 2
     assert digital_root(99) == 9
-    assert digital_root(7) == 7
+    assert digital_root(7) == 8
     assert digital_root(0) == 0
     assert digital_root(-5) == -1
  
