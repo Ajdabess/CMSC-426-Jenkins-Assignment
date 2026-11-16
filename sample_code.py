@@ -9,5 +9,3 @@ if __name__ == "__main__":
   print("Application Started")
   x = digital_root(6832)
   print(f"The digital root of 6832 is: {x}")
-
-# testing automatic build in jenkins
